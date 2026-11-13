@@ -1,0 +1,12 @@
+{
+  "issuer": "https://id.shop.test",
+  "authorization_endpoint": "https://id.shop.test/authorize",
+  "token_endpoint": "https://id.shop.test/token",
+  "redirect_uri": "https://app.shop.test/cb",
+  "state": "state-abc",
+  "nonce": "nonce-xyz",
+  "code_verifier": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+  "code_challenge": "1T7aemN8mcx_tWbZbp-hCb8VxHhBCj9etNTE4mzQgfY",
+  "code_challenge_method": "S256",
+  "spent": true
+}

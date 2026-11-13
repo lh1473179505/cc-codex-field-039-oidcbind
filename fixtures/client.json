@@ -1,0 +1,8 @@
+{
+  "client_id": "shop-web",
+  "client_secret": "shop-client-secret-ok",
+  "redirect_uris": [
+    "https://app.shop.test/cb"
+  ],
+  "require_iss": true
+}

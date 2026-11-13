@@ -1,0 +1,9 @@
+{
+  "token_type": "Bearer",
+  "access_token": "access-ok-1",
+  "id_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL2lkLnNob3AudGVzdCIsInN1YiI6InVzZXItYWxpY2UiLCJhdWQiOiJzaG9wLXdlYiIsImV4cCI6MTc2MzAwMDYwMCwiaWF0IjoxNzYyOTk5OTcwLCJub25jZSI6Im90aGVyIiwiYXRfaGFzaCI6Il9iamZUSFBXOHQ2ZTlkbXhuWlY5T2cifQ.C7CRLS_gNvZd5p4f3buWneHtfQsJukcTzuS5bU7mVZY",
+  "code": "code-ok-1",
+  "source_endpoint": "https://id.shop.test/token",
+  "redirect_uri": "https://app.shop.test/cb",
+  "code_verifier_echo": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+}
